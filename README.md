@@ -13,3 +13,11 @@ Este es un microservicio para la gestión de clientes.
    ```sh
    https://github.com/israelMacao/serviceclient.git
    cd TU_REPOSITORIO
+
+2. Construir y ejecutar:
+   ```sh  
+   mvn clean install
+   mvn spring-boot:run
+
+4. Acceder a la API:
+    http://localhost:8080/swagger-ui/index.html
