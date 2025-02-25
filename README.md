@@ -22,4 +22,4 @@ Este es un microservicio para la gestión de clientes.
 3. Acceder a la API:
     http://localhost:8080/swagger-ui/index.html
 
-4. Configurar el archivo.properties para la conexión a la base de datos
+4. Configurar el archivo aplication.properties para la conexión a la base de datos
