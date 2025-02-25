@@ -1,6 +1,6 @@
 # 🏦 Proyecto de Gestión de Clientes
 
-Este es un microservicio para la gestión de clientes de un banco.
+Este es un microservicio para la gestión de clientes.
 
 ## 📌 Tecnologías Usadas
 - Java 21
